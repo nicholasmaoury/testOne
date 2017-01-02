@@ -1,0 +1,49 @@
+Easy:
+
+   Numbers:
+
+1) Find PI to the xth digit
+2) Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number. 
+3) Have the user enter a number and find all Prime Factors (if there are any) and display them.
+
+   Text:
+
+1) Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”. 
+2) Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay).  
+
+Medium:
+
+	Numbers:
+
+1) Create a calculator to do simple calculations
+2) Unit converter
+3) Alarm clock, plays a sound after x number of minutes/seconds or at a particular time.
+
+	Text:
+
+1) Random Gift Suggestions - Enter various gifts for certain people when you think of them. When its time to give them a gift (xmas, birthday, anniversary) it will randomly pick one. Optional: Suggest places you can get it (link to Amazon page?).
+
+	Classes:
+
+1) Product Inventory Project - Create an application which manages an inventory of products. Create a product class which has a price, id, and quantity on hand. Then create an inventory class which keeps track of various products and can sum up the inventory value. 
+2) Bank Account Manager - Create a class called Account which will be an abstract class for three other classes called CheckingAccount, SavingsAccount and BusinessAccount. Manage credits and debits from these accounts through an ATM style program. 
+3) Family Tree Creator - Create a class called Person which will have a name, when they were born and when (and if) they died. Allow the user to create these Person classes and put them into a family tree structure. Print out the tree to the screen. 
+
+
+Hard:
+
+	Numbers:
+
+Calculates the distance between two cities and allows the user to specify a unit of distance (may require finding coordinates for cities like lat and long)
+
+	Text:
+
+1) Notepad style application that can open, edit, and save text documents. Optional: Add syntax highlighting and other features.
+2) Post it Notes Program - A program where you can add text reminders and post them. Optional: You can have the program also add popup reminders.
+3) Vigenere / Vernam / Ceasar Ciphers - Functions for encrypting and decrypting data messages. Then send them to a friend. 
+
+Kill Yourself Hard!:
+
+1) Create an online forum
+2)  Make an application which logs into a given site on a schedule and invokes a certain action and then logs out. This can be useful for checking web mail, posting regular content, or getting info for other applications and saving it to your computer.
+3) Create an application which allows you to draw pictures, write notes and use various colors to flesh out ideas for projects. Optional: Add feature to invite friends to collaborate on a white board online.
